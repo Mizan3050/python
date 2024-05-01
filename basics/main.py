@@ -1,2 +1,1 @@
-n = input('Your are lost in a forest!!')
-print(n)
+print(abs(0.5))
